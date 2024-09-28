@@ -26,4 +26,4 @@ Here are some of the technologies and tools I use:
 - ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Find Me 🌐
-- LinkedIn: [Udith Kateel](https://www.linkedin.com/in/udithkateel)
+- LinkedIn: [Udith Kateel](https://www.linkedin.com/in/udith-shetty-7b1852247/?originalSubdomain=in)
